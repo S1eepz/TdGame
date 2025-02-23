@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TdGame", "TdGame\TdGame.vcxproj", "{6822F321-904C-452E-AA57-14D5288527E1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "双人塔防游戏", "双人塔防游戏\双人塔防游戏.vdproj", "{CD13A1E1-79D8-4BCB-99BF-6F26ADE7A8CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6822F321-904C-452E-AA57-14D5288527E1}.Debug|x64.ActiveCfg = Debug|x64
+		{6822F321-904C-452E-AA57-14D5288527E1}.Debug|x64.Build.0 = Debug|x64
+		{6822F321-904C-452E-AA57-14D5288527E1}.Debug|x86.ActiveCfg = Debug|Win32
+		{6822F321-904C-452E-AA57-14D5288527E1}.Debug|x86.Build.0 = Debug|Win32
+		{6822F321-904C-452E-AA57-14D5288527E1}.Release|x64.ActiveCfg = Release|x64
+		{6822F321-904C-452E-AA57-14D5288527E1}.Release|x64.Build.0 = Release|x64
+		{6822F321-904C-452E-AA57-14D5288527E1}.Release|x86.ActiveCfg = Release|Win32
+		{6822F321-904C-452E-AA57-14D5288527E1}.Release|x86.Build.0 = Release|Win32
+		{CD13A1E1-79D8-4BCB-99BF-6F26ADE7A8CD}.Debug|x64.ActiveCfg = Debug
+		{CD13A1E1-79D8-4BCB-99BF-6F26ADE7A8CD}.Debug|x86.ActiveCfg = Debug
+		{CD13A1E1-79D8-4BCB-99BF-6F26ADE7A8CD}.Release|x64.ActiveCfg = Release
+		{CD13A1E1-79D8-4BCB-99BF-6F26ADE7A8CD}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B000CF0-5703-4780-B000-777593FA2181}
+	EndGlobalSection
+EndGlobal
